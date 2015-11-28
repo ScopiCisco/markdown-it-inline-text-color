@@ -1,0 +1,25 @@
+{
+  "name": "markdown-it-inline-text-color",
+  "version": "1.0.0",
+  "description": "Provides inline <span style=\"color:<value>;\">CONTAINTED TEXT</span> for markdown-it",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScopiCisco/markdown-it-inline-text-color.git"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "color"
+  ],
+  "author": "Scott Saltsgaver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScopiCisco/markdown-it-inline-text-color/issues"
+  },
+  "homepage": "https://github.com/ScopiCisco/markdown-it-inline-text-color#readme"
+}

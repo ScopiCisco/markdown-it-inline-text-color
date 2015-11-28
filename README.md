@@ -4,7 +4,7 @@
 
 __v1.+ requires `markdown-it` v4.+, see changelog.__
 
-'{color:red}red{color} light {color:yellow}yellow{color} light {color:green} light' => <span style="color:red;">red</span> light <span style="color:yellow;">yellow</span> light <span style="color:green;">green</span> light
+'{color:red}red{color} light {color:yellow}yellow{color} light {color:green} light' => &lt;span style="color:red;"&gt;red&lt;/span&gt; light&lt;span style="color:yellow;"&gt;yellow&lt;/span&gt; light &lt;span style="color:green;"&gt;green&lt;/span&gt; light
 
 Markup is based on Confluence wiki advanced text formatting
 
